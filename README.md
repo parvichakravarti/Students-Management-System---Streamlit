@@ -1,34 +1,24 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Student Grade Management System</title>
-</head>
-<body>
-    <h1>🎓 Student Grade Management System</h1>
-    <p>A simple web app built with <strong>Streamlit</strong> to help teachers manage student grades and track class performance.</p>
+# 🎓 Student Grade Management System
 
-    <h2>🔗 Live Demo</h2>
-    <p><a href="https://students-management-system---app-bjqerqttebo6uwaqt3ew53.streamlit.app/" target="_blank">Try it here</a></p>
+A simple web app built with **Streamlit** to help teachers manage student grades and track class performance.
 
-    <h2>Features</h2>
-    <ul>
-        <li>Secure <strong>teacher login</strong></li>
-        <li>Add, update, delete, and search student records</li>
-        <li>Automatic calculation of <strong>total, average, grade</strong>, and <strong>pass/fail</strong></li>
-        <li>View <strong>class statistics</strong> with visual charts</li>
-        <li>Generate <strong>grade analysis reports</strong> (subject averages, grade distribution, pass/fail ratio)</li>
-        <li>Export student data as <strong>CSV</strong></li>
-    </ul>
+## 🔗 Live Demo
+[Try it here](https://students-management-system---app-bjqerqttebo6uwaqt3ew53.streamlit.app/)
 
-    <h2>Tech Stack</h2>
-    <ul>
-        <li>Python</li>
-        <li>Streamlit</li>
-        <li>Pandas</li>
-    </ul>
+## Features
+- Secure **teacher login**  
+- Add, update, delete, and search student records  
+- Automatic calculation of **total, average, grade**, and **pass/fail**  
+- View **class statistics** with visual charts  
+- Generate **grade analysis reports** (subject averages, grade distribution, pass/fail ratio)  
+- Export student data as **CSV**  
 
-    <h2>How to Run</h2>
-    <ol>
-        <li>Clone the repo:
-            <pre><code>git clone &lt;repo-url&gt;</code></pre>
+## Tech Stack
+- Python  
+- Streamlit  
+- Pandas  
+
+## How to Run
+1. Clone the repo:  
+   ```bash
+   git clone <[https://github.com/parvichakravarti/Students-Management-System---Streamlit]>
