@@ -14,6 +14,7 @@ def login(username, password):
     if username == "teacher" and password == "12345":
         st.session_state.authenticated = True
         st.success("✅ Login successful!")
+        st.rerun()
     else:
         st.error("❌ Invalid username or password.")
 
@@ -244,4 +245,5 @@ elif menu == "About":
 elif menu == "Logout":
     st.session_state.authenticated = False
     st.success("✅ Logged out successfully! Please log in again.")
+
     st.rerun()
